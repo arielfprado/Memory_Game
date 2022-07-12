@@ -1,8 +1,11 @@
-- Memory Game: Web game using HTML 5, CSS 3 & JavaScript to create a memory game with rock n roll theme
- 	- index: HTML structure
- 	- style: CSS style
- 	- script: JavaScript code
- 	- img folder: Folder with all .jpg images used in the game
+# Memory Game
+### Memory Game created using HTML5, CSS3 & JavaScript with rock'n roll theme
+
+Project created to develop new web dev tools and capabilities.
+- index: HTML structure
+- style: CSS style
+- script: JavaScript code
+- img folder: Folder with all .jpg images used in the game
 
      
 
